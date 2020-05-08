@@ -27,7 +27,7 @@
 
     <artifactId>authz-js-policies</artifactId>
     <packaging>jar</packaging>
-    <name>Keycloak Quickstarts: JS Policies</name>
+    <name>Red Hat SSO Quickstarts: JS Policies</name>
     <description>JS Policies used by Authorization Services Quickstarts</description>
 
     <build>

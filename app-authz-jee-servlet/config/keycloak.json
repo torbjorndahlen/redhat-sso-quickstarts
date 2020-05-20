@@ -1,0 +1,12 @@
+{
+  "realm": "quickstart",
+  "auth-server-url": "https://sso-sso-app-demo.apps.onslunda-4f53.open.redhat.com/auth",
+  "ssl-required": "external",
+  "resource": "authz-servlet",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "secret"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {}
+}

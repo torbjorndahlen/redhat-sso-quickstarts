@@ -1,6 +1,6 @@
 {
   "realm": "hello-world-authz",
-  "auth-server-url": "https://sso-sso-app-demo.apps.onslunda-4f53.open.redhat.com/auth/",
+  "auth-server-url": "https://sso-sso-app-demo.apps.onslunda-4f53.open.redhat.com/auth",
   "ssl-required": "external",
   "resource": "app-authz-vanilla",
   "verify-token-audience": true,

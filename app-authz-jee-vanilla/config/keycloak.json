@@ -1,11 +1,11 @@
 {
   "realm": "hello-world-authz",
-  "auth-server-url": "https://sso-sso-app-demo.apps.onslunda-4f53.open.redhat.com/auth",
+  "auth-server-url": "http://localhost:8080/auth/",
   "ssl-required": "external",
   "resource": "app-authz-vanilla",
   "verify-token-audience": true,
   "credentials": {
-    "secret": "93c4fcb4-04fa-4b34-92a7-8c4e93eb958e"
+    "secret": "b694560f-74fd-431e-af5b-7b5c68e8206d"
   },
   "confidential-port": 0,
   "policy-enforcer": {}
